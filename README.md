@@ -4,4 +4,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minloxsito&show_icons=true&locale=es" alt="minloxsito" /></p>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=minloxsito)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=minloxsito)](https://twitter.com/minloxsito)
